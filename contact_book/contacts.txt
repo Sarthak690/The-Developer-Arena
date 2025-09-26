@@ -1,0 +1,4 @@
+# Text file where contacts are stored
+
+Alice,9876543210,alice@example.com
+Bob,9123456780,bob@example.com
